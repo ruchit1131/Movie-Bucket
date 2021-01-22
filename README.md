@@ -15,9 +15,27 @@
   ![OMDB-API](https://img.shields.io/badge/api-OMDB-blue)&nbsp;&nbsp;&nbsp;
   ![Youtube](https://img.shields.io/badge/api-Youtube-blue)&nbsp;&nbsp;&nbsp;
   ![0auth](https://img.shields.io/badge/api-Google%200auth-blue)<br/><br/><br/>
-<a href="https://ibb.co/q1gSmx9"><img src="https://i.ibb.co/ggW2t6w/localhost-3000-i-Phone-6-7-8-Plus.png" alt="localhost-3000-i-Phone-6-7-8-Plus" width="300"  border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/sPBjhT7"><img src="https://i.ibb.co/hMqskG0/localhost-3000-i-Phone-6-7-8-Plus-1.png" alt="localhost-3000-i-Phone-6-7-8-Plus-1" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/VDsCNjn"><img src="https://i.ibb.co/sQZ1Pmx/localhost-3000-i-Phone-6-7-8-Plus-2.png" alt="localhost-3000-i-Phone-6-7-8-Plus-2" width="300" border="0" /></a><br/><br/><br/><br/>
+<a href="https://ibb.co/ZcdYCYq"><img src="https://i.ibb.co/vL1Q8Q0/login.png" alt="login" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/mXTqVd2"><img src="https://i.ibb.co/4YtTnCX/s1.png" alt="s1" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/yQ5xn6f"><img src="https://i.ibb.co/G5krvWx/s2.png" alt="s2" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/6ZNV2hR"><img src="https://i.ibb.co/0XQ8kNj/s3.png" alt="s3" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/r5GZPG9"><img src="https://i.ibb.co/dk0Q90Z/home.png" alt="home" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/SN7MzPy"><img src="https://i.ibb.co/D4gvZtW/fav.png" alt="fav" width="300" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/LpRx1TC"><img src="https://i.ibb.co/C08bQjn/bin.png" alt="bin" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/r3Qjw42"><img src="https://i.ibb.co/sCgfVy9/a.png" alt="a" width="300" border="0" /></a>
+<br/><br/><br/><br/>
+
+
+https://ibb.co/r3Qjw42
+https://ibb.co/LpRx1TC
+https://ibb.co/SN7MzPy
+https://ibb.co/r5GZPG9
+https://ibb.co/6ZNV2hR
+https://ibb.co/yQ5xn6f
+https://ibb.co/mXTqVd2
+https://ibb.co/ZcdYCYq
+
+
 
 
 ### &nbsp;&nbsp;Style: Formal, Watermark: Not present<br/><br/>
