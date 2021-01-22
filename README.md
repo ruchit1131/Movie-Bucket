@@ -14,7 +14,7 @@
   ![bcrypt](https://img.shields.io/badge/-bcrypt-333333?style=flat&logo=bcrypt)&nbsp;&nbsp;&nbsp;
   ![OMDB-API](https://img.shields.io/badge/api-OMDB-blue)&nbsp;&nbsp;&nbsp;
   ![Youtube](https://img.shields.io/badge/api-Youtube-blue)&nbsp;&nbsp;&nbsp;
-  ![0auth](https://img.shields.io/badge/api-Google 0auth-blue)<br/><br/><br/>
+  ![0auth](https://img.shields.io/badge/api-Google%200auth-blue)<br/><br/><br/>
 <a href="https://ibb.co/q1gSmx9"><img src="https://i.ibb.co/ggW2t6w/localhost-3000-i-Phone-6-7-8-Plus.png" alt="localhost-3000-i-Phone-6-7-8-Plus" width="300"  border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ibb.co/sPBjhT7"><img src="https://i.ibb.co/hMqskG0/localhost-3000-i-Phone-6-7-8-Plus-1.png" alt="localhost-3000-i-Phone-6-7-8-Plus-1" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://ibb.co/VDsCNjn"><img src="https://i.ibb.co/sQZ1Pmx/localhost-3000-i-Phone-6-7-8-Plus-2.png" alt="localhost-3000-i-Phone-6-7-8-Plus-2" width="300" border="0" /></a><br/><br/><br/><br/>
