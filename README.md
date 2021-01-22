@@ -11,7 +11,7 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;&nbsp;&nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)&nbsp;&nbsp;&nbsp;
   ![MongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)&nbsp;&nbsp;&nbsp;
-  ![bcrypt](https://img.shields.io/badge/-bcrypt-333333?style=flat&logo=bcrypt)&nbsp;&nbsp;&nbsp;
+  ![bcrypt](https://img.shields.io/badge/module-bcrypt-blue)&nbsp;&nbsp;&nbsp;
   ![OMDB-API](https://img.shields.io/badge/api-OMDB-blue)&nbsp;&nbsp;&nbsp;
   ![Youtube](https://img.shields.io/badge/api-Youtube-blue)&nbsp;&nbsp;&nbsp;
   ![0auth](https://img.shields.io/badge/api-Google%200auth-blue)<br/><br/><br/>
