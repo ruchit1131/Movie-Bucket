@@ -1,0 +1,40 @@
+@font-face {
+	font-family: myFirstFont;
+	src: url('https://fonts.googleapis.com/css2?family=Lato:wght@200&display=swap" rel="stylesheet');
+}
+@font-face {
+	font-family: myFirstFont;
+	src: url('https://fonts.googleapis.com/css2?family=Lato:wght@400&display=swap" rel="stylesheet');
+}
+* {
+	box-sizing: border-box;
+  }
+  
+  body {
+	margin: 0;
+	font-family:Arial, Helvetica, sans-serif;
+  }
+  
+  /* Style the side navigation */
+  .sidenav {
+	display: inline;
+  }
+  
+  /* Style the content */
+  .content {
+	background-color: #333;
+	color: #ccc;
+	vertical-align: top;
+	margin: 5px;
+	padding: 5px;
+	display: inline-block;
+	max-width: 1000px;
+	border-radius: 5px;
+	line-height: 1.5;
+	font-family: 'Lato';
+	font-weight: 300;
+  }
+  .inner {
+	width: 95%;
+	margin: 10px auto;
+  }

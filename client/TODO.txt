@@ -1,0 +1,7 @@
+Enter key for submit
+change routes for login register
+Delete all
+user registered popup
+Register button vipes all entries
+style
+logou button
