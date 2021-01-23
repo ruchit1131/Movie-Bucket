@@ -214,7 +214,7 @@ login = (val) => {
 
 search = (title) => {
 
-    axios.get('https://www.omdbapi.com/?apikey=e1c59ba&s=' + title).then( res => {
+    axios.get('https://www.omdbapi.com/?apikey=<apikey>&s=' + title).then( res => {
     //console.log(res.data.Search);
     this.setState({ movies : res.data.Search});
     //console.log(this.state.movies);
@@ -408,7 +408,7 @@ deleteTodo = (id) => {
 
 
  async select_mov (id)  {
-    await axios.get("https://www.omdbapi.com/?apikey=e1c59ba&plot=full&i=" + id).then( res => {
+    await axios.get("https://www.omdbapi.com/?apikey=<apikey>&plot=full&i=" + id).then( res => {
 
      //console.log(this.state.current_movie);
      this.setState({current_movie : JSON.stringify(res.data)})
