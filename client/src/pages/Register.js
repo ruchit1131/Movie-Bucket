@@ -40,7 +40,7 @@ export class Register extends Component {
             <form>  
                 <div style={google_s}>
                 <GoogleLogin 
-                clientId="227977723071-8br0ltkuo26gjt3fhaqemnef8c8uhic0.apps.googleusercontent.com"
+                clientId="<client id>"
                 onSuccess={responseGoogle}
                 onFailure={responseGoogle}
                 />
