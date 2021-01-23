@@ -27,24 +27,26 @@
 
 
 ## ABOUT
-  This is a MERN stack app. html-pdf node module is used to convert html code to PDF file. The Frontend react app is a form in which you can enter your details. By default the watermark will appear above. To remove it just check 'Remove Watermark' box. The client(Frontend) sends the form data to the server(Backend) which uses the data to make an HTML document.The HTML document is rendered to PDF format and sotred on the server. The client requests the saved PDF and saves it in the storage of the user.
+  This is a CRUD MERN stack app. You can add movies to your movies' bucket(i.e list of what movies you want to watch), delete them,mark them as watched, move to favourites, unfavourite, etc.
+  You can search movie information and get all the information about the movie - rating, actors, plot, poster, language, etc. You can read the plot and watch the trailer of the movie and if you want to watch ir, add it to your movies' bucket in just a click! You can prioritize your movies' bucket and add directly to favourites. If you delete a movie by accident, you can restore it from the bin. No need to fill up the registration form, just click on Google login and login with your Google email. You will not be logged out if you close the app in your browser. Your password is encrypted.
 
 ## FEATURES
 
-  + Resume uses stylish fonts and icons.
-  + 11 different styles available.
-  + Custom style your content using html and css. E.g "This is &lt;b&gt; bold &lt;/b&gt; text" will render like  "This is <b> bold </b> text".
-  + Add links to github, liknedin, twitter, kaggle, and your own website.
-  + Add links to projects.
+  + Search movie and get all information about the movie: IMDB rating, Number of votes, Rating, Duration, Language, Gerne, Language, Release date, Poster, Plot, Director, Actors and the trailer of the movie.
+  + Add movies manually as well as from the list of searched movies.
+  + You can look in the bin if you deleted the movie accidentaly.
+  + Google Login
+  + Add movies to favourites.
+  + Mark them watched or unwathced.
 <br/><br/>
 
 ## Setup
 
 ### Using Command Line
 
-  + Clone the git repo using "git clone https://github.com/ruchit1131/Resume-Maker-App.git"
-  + Move to the git directory using "cd Resume-Maker-App"
-  + Change branch to v1.0.1 using "git checkout v1.0.1"
+  + Clone the git repo using "git clone https://github.com/ruchit1131/Movie-Bucket.git"
+  + Move to the git directory using "cd Movie-Bucket"
+  + Change branch to v1.0.1 using "git checkout v1.0.0"
   + Install node_modules using "npm i"
   + Start the server using "nodemon index"
   + Go to http://localhost:5000 and the app should start working
@@ -52,10 +54,7 @@
 
 ### Without command line
 
-  + Switch to v1.0.1 branch of this repo.
+  + Switch to v1.0.0 branch of this repo.
   + Download the code.
   + Follow instructions from 'Using command line' 
 <br/><br/>
-
-
-#### Note: This app was deployed to heroku which zoomed in the pdf. For that reason, the HTML was zoomed out so that it balances on deployment. To reset it, go to documents folder and open index.js. In style tag, change zoom of html element from 0.6 to 1.
