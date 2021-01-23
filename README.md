@@ -42,7 +42,7 @@
   + User data sotred in local storage so that user does not log out if browser tab is closed.
 <br/><br/>
 
-## Setup
+## SETUP
 
 ### Using Command Line
 
