@@ -28,7 +28,7 @@
 
 ## ABOUT
   This is a CRUD MERN stack app. You can add movies to your movies' bucket(i.e list of what movies you want to watch), delete them,mark them as watched, move to favourites, unfavourite, etc.
-  You can search movie information and get all the information about the movie - rating, actors, plot, poster, language, etc. You can read the plot and watch the trailer of the movie and if you want to watch ir, add it to your movies' bucket in just a click! You can prioritize your movies' bucket and add directly to favourites. If you delete a movie by accident, you can restore it from the bin. No need to fill up the registration form, just click on Google login and login with your Google email. You will not be logged out if you close the app in your browser. Your password is encrypted.
+  You can search movie information and get all the information about the movie - rating, actors, plot, poster, language, etc. You can read the plot and watch the trailer of the movie and if you want to watch ir, add it to your movies' bucket in just a click! You can prioritize your movies' bucket and add directly to favourites. If you delete a movie by accident, you can restore it from the bin. No need to fill up the registration form, just click on Google login and login with your Google email. You will not be logged out if you close the app in your browser. Your password is encrypted. The movie information is fetched from OMDB API. The trailer is fetched from Youtube API by appending movie name, name of one actor, type(movie or series) and "trailer" to search query.
 
 ## FEATURES
 
