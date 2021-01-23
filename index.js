@@ -5,7 +5,7 @@ const mongoose = require('mongoose');
 const bcrypt = require('bcrypt');
 const path = require('path');
 const PORT = process.env.PORT || 5000;
-const db = 'mongodb+srv://ruch:ruch@movie-database.9t2ve.mongodb.net/movie-database?retryWrites=true&w=majority';
+const db = 'Enter your mongodb connect link';
 const User = require('./models/User')
 
 
