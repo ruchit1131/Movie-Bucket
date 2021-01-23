@@ -4,3 +4,4 @@ Delete all
 user registered popup
 Register button wipes all entries
 style
+Which link is active?
