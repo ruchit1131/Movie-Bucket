@@ -1,4 +1,4 @@
-# Five Minute Resume
+# Movies' Bucket 
 
 ### [Live Site](https://movies-bucket.herokuapp.com/)<br/><br/>
 
@@ -15,35 +15,16 @@
   ![OMDB-API](https://img.shields.io/badge/api-OMDB-blue)&nbsp;&nbsp;&nbsp;
   ![Youtube](https://img.shields.io/badge/api-Youtube-blue)&nbsp;&nbsp;&nbsp;
   ![0auth](https://img.shields.io/badge/api-Google%200auth-blue)<br/><br/><br/>
-<a href="https://ibb.co/ZcdYCYq"><img src="https://i.ibb.co/vL1Q8Q0/login.png" alt="login" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/mXTqVd2"><img src="https://i.ibb.co/4YtTnCX/s1.png" alt="s1" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/yQ5xn6f"><img src="https://i.ibb.co/G5krvWx/s2.png" alt="s2" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/6ZNV2hR"><img src="https://i.ibb.co/0XQ8kNj/s3.png" alt="s3" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/r5GZPG9"><img src="https://i.ibb.co/dk0Q90Z/home.png" alt="home" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/SN7MzPy"><img src="https://i.ibb.co/D4gvZtW/fav.png" alt="fav" width="300" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/LpRx1TC"><img src="https://i.ibb.co/C08bQjn/bin.png" alt="bin" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://ibb.co/r3Qjw42"><img src="https://i.ibb.co/sCgfVy9/a.png" alt="a" width="300" border="0" /></a>
+<a href="https://ibb.co/ZcdYCYq"><img src="https://i.ibb.co/vL1Q8Q0/login.png" alt="login" width="250" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/mXTqVd2"><img src="https://i.ibb.co/4YtTnCX/s1.png" alt="s1" width="250" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/yQ5xn6f"><img src="https://i.ibb.co/G5krvWx/s2.png" alt="s2" width="250" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/6ZNV2hR"><img src="https://i.ibb.co/0XQ8kNj/s3.png" alt="s3" width="250" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/r5GZPG9"><img src="https://i.ibb.co/dk0Q90Z/home.png" alt="home" width="250" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/SN7MzPy"><img src="https://i.ibb.co/D4gvZtW/fav.png" alt="fav" width="250" width="300" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/LpRx1TC"><img src="https://i.ibb.co/C08bQjn/bin.png" alt="bin" width="250" border="0" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://ibb.co/r3Qjw42"><img src="https://i.ibb.co/sCgfVy9/a.png" alt="a" width="250" border="0" /></a>
 <br/><br/><br/><br/>
 
-
-https://ibb.co/r3Qjw42
-https://ibb.co/LpRx1TC
-https://ibb.co/SN7MzPy
-https://ibb.co/r5GZPG9
-https://ibb.co/6ZNV2hR
-https://ibb.co/yQ5xn6f
-https://ibb.co/mXTqVd2
-https://ibb.co/ZcdYCYq
-
-
-
-
-### &nbsp;&nbsp;Style: Formal, Watermark: Not present<br/><br/>
-
-
-<a href="https://ibb.co/M7P4HzR"><img src="https://i.ibb.co/89Ppwyj/new-Pdf-2.jpg" alt="new-Pdf-2" width="400" border="0" /></a><br/><br/>
-### Style: Colorful, Color: Red, Watermark: Present<br/><br/>
-<a href="https://ibb.co/g9tF9jv"><img src="https://i.ibb.co/3dSYdrf/new-Pdf-1.jpg" alt="new-Pdf-1"  width="400" border="0" /></a><br/><br/><br/>
 
 ## ABOUT
   This is a MERN stack app. html-pdf node module is used to convert html code to PDF file. The Frontend react app is a form in which you can enter your details. By default the watermark will appear above. To remove it just check 'Remove Watermark' box. The client(Frontend) sends the form data to the server(Backend) which uses the data to make an HTML document.The HTML document is rendered to PDF format and sotred on the server. The client requests the saved PDF and saves it in the storage of the user.
