@@ -60,3 +60,5 @@
   + Download the code.
   + Follow instructions from 'Using command line' 
 <br/><br/>
+
+## NOTE: You need to add your own API Keys and mongodb connect link. Files in which you need to add are index.js, client/src/App.js, client/src/pages/Register.js, client/src/components/pages/Youtube.js 
