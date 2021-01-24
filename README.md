@@ -32,13 +32,13 @@
 
 ## FEATURES
 
-  + Search movie and get all information about the movie: IMDB rating, Number of votes, Rating, Duration, Language, Gerne, Language, Release date, Poster, Plot, Director, Actors and the trailer of the movie.
+  + Search movie and get all information about the movie: IMDB rating, Number of votes, Rating, Duration, Language, Gerne, Language, Release date, Poster, Plot, Director, Actors and the trailer of the movie. Scroll down to see the movie
   + Add movies manually as well as from the list of searched movies.
   + Add movies directly to favourites from the search list.
   + You can look in the bin if you deleted the movie accidentaly.
   + Google Login
   + Add movies to favourites.
-  + Mark movies watched or unwathced.
+  + Mark movies watched or unwathched by clicking on them. If wathced, it will be green, else red.
   + User data sotred in local storage so that user does not log out if browser tab is closed.
 <br/><br/>
 
